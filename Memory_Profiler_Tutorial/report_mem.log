@@ -1,0 +1,11 @@
+Filename: scripts.py
+
+Line #    Mem usage    Increment  Occurences   Line Contents
+============================================================
+    14     49.7 MiB     49.7 MiB           1   @profile(stream=fp) 
+    15                                         def example_two():
+    16    812.6 MiB    762.9 MiB           1   	d = np.ones((100,1000,1000))
+    17    820.1 MiB      7.5 MiB           1   	s = sum(d)
+    18    820.1 MiB      0.0 MiB           1   	return s 
+
+
