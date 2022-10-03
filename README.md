@@ -145,6 +145,7 @@ Aim: A Collection of Useful Data Science and Machine Learning Tools,Libraries an
    - memory_profiler: https://github.com/pythonprofilers/memory_profiler
    - py-spy: https://github.com/benfred/py-spy/blob/master/README.md
    - pyflame: https://github.com/uber/pyflame   # Does not support Windows
+   - dataprofiler: https://github.com/capitalone/DataProfiler
 
 ### Forecasting
    - pyramid-arima https://github.com/tgsmith61591/pyramid
