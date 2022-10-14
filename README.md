@@ -55,6 +55,7 @@ Aim: A Collection of Useful Data Science and Machine Learning Tools,Libraries an
 - Dataspyre: dashboard framework with flask backend
 - folium
 - geoplot
+- D-Tale
 - plotnine: clone of R's ggplot2
 - joypy: https://github.com/sbebo/joypy/blob/master/Joyplot.ipynb
 - bqplot
@@ -142,10 +143,14 @@ Aim: A Collection of Useful Data Science and Machine Learning Tools,Libraries an
 
 ### Profiling
    - pandas-profiling: https://github.com/pandas-profiling/pandas-profiling
+   - dataprofiler: https://github.com/capitalone/DataProfiler
    - memory_profiler: https://github.com/pythonprofilers/memory_profiler
    - py-spy: https://github.com/benfred/py-spy/blob/master/README.md
    - pyflame: https://github.com/uber/pyflame   # Does not support Windows
    - dataprofiler: https://github.com/capitalone/DataProfiler
+   - pyinstrument
+   - scalene
+   - cprofile
 
 ### Forecasting
    - pyramid-arima https://github.com/tgsmith61591/pyramid
@@ -175,6 +180,9 @@ Aim: A Collection of Useful Data Science and Machine Learning Tools,Libraries an
    - db.py (dead project?)
    - sqlalchemy
    - sqlalchemy-turbodbc
+   - postgresql
+   - sqlmodel
+
 
 ### ETL or data engineering related sorted from lightest to heaviest framework
    - papermill- scrapbook: https://github.com/nteract/papermill (parameterized notebooks)
@@ -222,6 +230,18 @@ https://github.com/kvh/recurrent  - extract datetimes from English sentence
    - scrapy (OOP framework)
    - newspaper3k: https://newspaper.readthedocs.io  # easily extract text from articles
    - requests-html: requests-html: https://github.com/kennethreitz/requests-html
+
+### Data Web Apps and ML Web Apps
+   - Streamlit : https://github.com/streamlit
+   - Gradio : https://github.com/gradio-app/gradio
+   - Mercury Mljar: https://github.com/mljar/mercury
+   - Panel : https://github.com/holoviz/panel
+   - Dash 
+   - Databutton
+   - Flask
+   - Django
+   - FastAPI
+
 
 ### Utilities
    - https://github.com/tldr-pages/tldr-python-client # replacement for man pages
