@@ -1,0 +1,251 @@
+,name,nativeName,latlng,currency,borders,capital,area,latitude,longitude,population,continent
+0,Afghanistan,افغانستان,"33,65",AFN,"IRN,PAK,TKM,UZB,TJK,CHN",Kabul,652230.0,33.0,65.0,4011770.0,Asia
+1,Åland Islands,Åland,"60.116667,19.9",EUR,,Mariehamn,-1.0,60.116667,19.9,,
+2,Albania,Shqipëria,"41,20",ALL,"MNE,GRC,MKD,KOS",Tirana,28748.0,41.0,20.0,475577.0,Europe
+3,Algeria,الجزائر,"28,3",DZD,"TUN,LBY,NER,ESH,MRT,MLI,MAR",Algiers,2381741.0,28.0,3.0,2693542.0,Africa
+4,American Samoa,American Samoa,"-14.33333333,-170",USD,,Pago Pago,199.0,-14.33333333,-170.0,48526.0,
+5,Andorra,Andorra,"42.5,1.5",EUR,"FRA,ESP",Andorra la Vella,468.0,42.5,1.5,22614.0,Europe
+6,Angola,Angola,"-12.5,18.5",AOA,"COG,COD,ZMB,NAM",Luanda,1246700.0,-12.5,18.5,7774200.0,Africa
+7,Anguilla,Anguilla,"18.25,-63.16666666",XCD,,The Valley,91.0,18.25,-63.16666666,1402.0,
+8,Antarctica,,"-90,0",,,,14000000.0,-90.0,0.0,,
+9,Antigua and Barbuda,Antigua and Barbuda,"17.05,-61.8",XCD,,Saint John's,442.0,17.05,-61.8,20764.0,North America
+10,Argentina,Argentina,"-34,-64",ARS,"BOL,BRA,CHL,PRY,URY",Buenos Aires,2780400.0,-34.0,-64.0,14966530.0,South America
+11,Armenia,Հայաստան,"40,45",AMD,"AZE,GEO,IRN,TUR",Yerevan,29743.0,40.0,45.0,1080324.0,Europe
+12,Aruba,Aruba,"12.5,-69.96666666",AWG,,Oranjestad,180.0,12.5,-69.96666666,29877.0,
+13,Australia,Australia,"-27,133",AUD,,Canberra,7692024.0,-27.0,133.0,447692.0,Oceania
+14,Austria,Österreich,"47.33333333,13.33333333",EUR,"CZE,DEU,HUN,ITA,LIE,SVK,SVN,CHE",Vienna,83871.0,47.33333333,13.33333333,1900547.0,Europe
+15,Azerbaijan,Azərbaycan,"40.5,47.5",AZN,"ARM,GEO,IRN,RUS,TUR",Baku,86600.0,40.5,47.5,2285729.0,Europe
+16,Bahamas,Bahamas,"24.25,-76",BSD,,Nassau,13943.0,24.25,-76.0,279668.0,North America
+17,Bahrain,‏البحرين,"26,50.55",BHD,,Manama,765.0,26.0,50.55,564631.0,Asia
+18,Bangladesh,Bangladesh,"24,90",BDT,"MMR,IND",Dhaka,147570.0,24.0,90.0,19578421.0,Asia
+19,Barbados,Barbados,"13.16666666,-59.53333333",BBD,,Bridgetown,430.0,13.16666666,-59.53333333,89201.0,North America
+20,Belarus,Белару́сь,"53,28",BYR,"LVA,LTU,POL,RUS,UKR",Minsk,207600.0,53.0,28.0,2004672.0,Europe
+21,Belgium,België,"50.83333333,4",EUR,"FRA,DEU,LUX,NLD",Brussels,30528.0,50.83333333,4.0,2049510.0,Europe
+22,Belize,Belize,"17.25,-88.75",BZD,"GTM,MEX",Belmopan,22966.0,17.25,-88.75,22964.0,North America
+23,Benin,Bénin,"9.5,2.25",XOF,"BFA,NER,NGA,TGO",Porto-Novo,112622.0,9.5,2.25,685458.0,Africa
+24,Bermuda,Bermuda,"32.33333333,-64.75",BMD,,Hamilton,54.0,32.33333333,-64.75,10073.0,
+25,Bhutan,ʼbrug-yul,"27.5,90.5","BTN,INR","CHN,IND",Thimphu,38394.0,27.5,90.5,203297.0,Asia
+26,Bolivia,Bolivia,"-17,-65","BOB,BOV","ARG,BRA,CHL,PRY,PER",Sucre,1098581.0,-17.0,-65.0,,South America
+27,Bonaire,Bonaire,"12.15,-68.266667",USD,,Kralendijk,-1.0,12.15,-68.266667,,
+28,Bosnia and Herzegovina,Bosna i Hercegovina,"44,18",BAM,"HRV,MNE,SRB",Sarajevo,51209.0,44.0,18.0,342577.0,Europe
+29,Botswana,Botswana,"-22,24",BWP,"NAM,ZAF,ZMB,ZWE",Gaborone,582000.0,-22.0,24.0,269338.0,Africa
+30,Bouvet Island,Bouvetøya,"-54.43333333,3.4",NOK,,,49.0,-54.43333333,3.4,,
+31,Brazil,Brasil,"-10,-55",BRL,"ARG,BOL,COL,GUF,GUY,PRY,PER,SUR,URY,VEN",Brasília,8515767.0,-10.0,-55.0,4469585.0,South America
+32,British Indian Ocean Territory,British Indian Ocean Territory,"-6,71.5",USD,,Diego Garcia,60.0,-6.0,71.5,,
+33,British Virgin Islands,British Virgin Islands,"18.431383,-64.62305",USD,,Road Town,151.0,18.431383,-64.62305,15137.0,
+34,Brunei,Negara Brunei Darussalam,"4.5,114.66666666",BND,MYS,Bandar Seri Begawan,5765.0,4.5,114.66666666,,Asia
+35,Bulgaria,България,"43,25",BGN,"GRC,MKD,ROU,SRB,TUR",Sofia,110879.0,43.0,25.0,1272418.0,Europe
+36,Burkina Faso,Burkina Faso,"13,-2",XOF,"BEN,CIV,GHA,MLI,NER,TGO",Ouagadougou,272967.0,13.0,-2.0,2531381.0,
+37,Burundi,Burundi,"-3.5,30",BIF,"COD,RWA,TZA",Bujumbura,27834.0,-3.5,30.0,898968.0,Africa
+38,Cambodia,Kâmpŭchéa,"13,105",KHR,"LAO,THA,VNM",Phnom Penh,181035.0,13.0,105.0,1952329.0,Asia
+39,Cameroon,Cameroon,"6,12",XAF,"CAF,TCD,COG,GNQ,GAB,NGA",Yaoundé,475442.0,6.0,12.0,3655656.0,Africa
+40,Canada,Canada,"60,-95",CAD,USA,Ottawa,9984670.0,60.0,-95.0,1363159.0,North America
+41,Cape Verde,Cabo Verde,"16,-24",CVE,,Praia,4033.0,16.0,-24.0,,Africa
+42,Cayman Islands,Cayman Islands,"19.5,-80.5",KYD,,George Town,264.0,19.5,-80.5,34875.0,
+43,Central African Republic,Ködörösêse tî Bêafrîka,"7,21",XAF,"CMR,TCD,COD,COG,SSD,SDN",Bangui,622984.0,7.0,21.0,850946.0,Africa
+44,Chad,Tchad,"15,19",XAF,"CMR,CAF,LBY,NER,NGA,SSD",N'Djamena,1284000.0,15.0,19.0,1322679.0,Africa
+45,Chile,Chile,"-30,-71","CLF,CLP","ARG,BOL,PER",Santiago,756102.0,-30.0,-71.0,6680371.0,South America
+46,China,中国,"35,105",CNY,"AFG,BTN,MMR,HKG,IND,KAZ,PRK,KGZ,LAO,MAC,MNG,PAK,RUS,TJK,VNM",Beijing,9706961.0,35.0,105.0,19617963.0,Asia
+47,Christmas Island,Christmas Island,"-10.5,105.66666666",AUD,,Flying Fish Cove,135.0,-10.5,105.66666666,,
+48,Cocos (Keeling) Islands,Cocos (Keeling) Islands,"-12.5,96.83333333",AUD,,West Island,14.0,-12.5,96.83333333,,
+49,Colombia,Colombia,"4,-72",COP,"BRA,ECU,PAN,PER,VEN",Bogotá,1141748.0,4.0,-72.0,10574409.0,South America
+50,Comoros,Komori,"-12.16666666,44.25",KMF,,Moroni,1862.0,-12.16666666,44.25,62351.0,Africa
+51,Republic of the Congo,République du Congo,"-1,15",XAF,"AGO,CMR,CAF,COD,GAB",Brazzaville,342000.0,-1.0,15.0,,
+52,Democratic Republic of the Congo,République démocratique du Congo,"0,25",CDF,"AGO,BDI,CAF,COG,RWA,SSD,TZA,UGA,ZMB",Kinshasa,2344858.0,0.0,25.0,13171256.0,
+53,Cook Islands,Cook Islands,"-21.23333333,-159.76666666",NZD,,Avarua,236.0,-21.23333333,-159.76666666,13067.0,
+54,Costa Rica,Costa Rica,"10,-84",CRC,"NIC,PAN",San José,51100.0,10.0,-84.0,1357745.0,North America
+55,Croatia,Hrvatska,"45.16666666,15.5",HRK,"BIH,HUN,MNE,SRB,SVN",Zagreb,56594.0,45.16666666,15.5,685587.0,Europe
+56,Cuba,Cuba,"21.5,-80","CUC,CUP",,Havana,109884.0,21.5,-80.0,2136468.0,North America
+57,Curaçao,Curaçao,"12.116667,-68.933333",ANG,,Willemstad,444.0,12.116667,-68.933333,144037.0,
+58,Cyprus,Κύπρος,"35,33",EUR,GBR,Nicosia,9251.0,35.0,33.0,269469.0,Europe
+59,Czech Republic,Česká republika,"49.75,15.5",CZK,"AUT,DEU,POL,SVK",Prague,78865.0,49.75,15.5,,
+60,Denmark,Danmark,"56,10",DKK,DEU,Copenhagen,43094.0,56.0,10.0,1320826.0,Europe
+61,Djibouti,Djibouti,"11.5,43",DJF,"ERI,ETH,SOM",Djibouti,23200.0,11.5,43.0,561564.0,Africa
+62,Dominica,Dominica,"15.41666666,-61.33333333",XCD,,Roseau,751.0,15.41666666,-61.33333333,14942.0,North America
+63,Dominican Republic,República Dominicana,"19,-70.66666666",DOP,HTI,Santo Domingo,48671.0,19.0,-70.66666666,3172152.0,North America
+64,Ecuador,Ecuador,"-2,-77.5",USD,"COL,PER",Quito,276841.0,-2.0,-77.5,1822397.0,South America
+65,Egypt,مصر‎,"27,30",EGP,"ISR,LBY,SDN",Cairo,1002450.0,27.0,30.0,20076002.0,Africa
+66,El Salvador,El Salvador,"13.83333333,-88.91666666","SVC,USD","GTM,HND",San Salvador,21041.0,13.83333333,-88.91666666,1106698.0,North America
+67,Equatorial Guinea,Guinea Ecuatorial,"2,10",XAF,"CMR,GAB",Malabo,28051.0,2.0,10.0,296770.0,Africa
+68,Eritrea,ኤርትራ,"15,39",ERN,"DJI,ETH,SDN",Asmara,117600.0,15.0,39.0,895863.0,Africa
+69,Estonia,Eesti,"59,26",EUR,"LVA,RUS",Tallinn,45227.0,59.0,26.0,437027.0,Europe
+70,Ethiopia,ኢትዮጵያ,"8,38",ETB,"DJI,ERI,KEN,SOM,SSD,SDN",Addis Ababa,1104300.0,8.0,38.0,4399674.0,Africa
+71,Falkland Islands,Falkland Islands,"-51.75,-59",FKP,,Stanley,12173.0,-51.75,-59.0,,
+72,Faroe Islands,Føroyar,"62,-7",DKK,,Tórshavn,1393.0,62.0,-7.0,,
+73,Fiji,Fiji,"-18,175",FJD,,Suva,18272.0,-18.0,175.0,178339.0,Oceania
+74,Finland,Suomi,"64,26",EUR,"NOR,SWE,RUS",Helsinki,338424.0,64.0,26.0,1279096.0,Europe
+75,France,France,"46,2",EUR,"AND,BEL,DEU,ITA,LUX,MCO,ESP,CHE",Paris,-1.0,46.0,2.0,10900952.0,Europe
+76,French Guiana,Guyane française,"4,-53",EUR,"BRA,SUR",Cayenne,-1.0,4.0,-53.0,57506.0,
+77,French Polynesia,Polynésie française,"-15,-140",XPF,,Papeetē,4167.0,-15.0,-140.0,136005.0,
+78,French Southern and Antarctic Lands,Territoire des Terres australes et antarctiques françaises,"-49.25,69.167",EUR,,Port-aux-Français,7747.0,-49.25,69.167,,
+79,Gabon,Gabon,"-1,11.75",XAF,"CMR,COG,GNQ",Libreville,267668.0,-1.0,11.75,813489.0,Africa
+80,Gambia,Gambia,"13.46666666,-16.56666666",GMD,SEN,Banjul,-1.0,13.46666666,-16.56666666,437161.0,Africa
+81,Georgia,საქართველო,"42,43.5",GEL,"ARM,AZE,RUS,TUR",Tbilisi,-1.0,42.0,43.5,1077333.0,Europe
+82,Germany,Deutschland,"51,9",EUR,"AUT,BEL,CZE,DNK,FRA,LUX,NLD,POL,CHE",Berlin,357114.0,51.0,9.0,3552123.0,Europe
+83,Ghana,Ghana,"8,-2",GHS,"BFA,CIV,TGO",Accra,238533.0,8.0,-2.0,2439389.0,Africa
+84,Gibraltar,Gibraltar,"36.13333333,-5.35",GIP,ESP,Gibraltar,6.0,36.13333333,-5.35,34733.0,
+85,Greece,Ελλάδα,"39,22",EUR,"ALB,BGR,TUR,MKD",Athens,131990.0,39.0,22.0,3155600.0,Europe
+86,Greenland,Kalaallit Nunaat,"72,-40",DKK,,Nuuk,2166086.0,72.0,-40.0,18406.0,
+87,Grenada,Grenada,"12.11666666,-61.66666666",XCD,,St. George's,344.0,12.11666666,-61.66666666,39297.0,North America
+88,Guadeloupe,Guadeloupe,"16.25,-61.583333",EUR,,Basse-Terre,-1.0,16.25,-61.583333,58397.0,
+89,Guam,Guam,"13.46666666,144.78333333",USD,,Hagåtña,549.0,13.46666666,144.78333333,146905.0,
+90,Guatemala,Guatemala,"15.5,-90.25",GTQ,"BLZ,SLV,HND,MEX",Guatemala City,108889.0,15.5,-90.25,2851104.0,North America
+91,Guernsey,Guernsey,"49.46666666,-2.58333333",GBP,,St. Peter Port,78.0,49.46666666,-2.58333333,,
+92,Guinea,Guinée,"11,-10",GNF,"CIV,GNB,LBR,MLI,SEN,SLE",Conakry,245857.0,11.0,-10.0,1843121.0,Africa
+93,Guinea-Bissau,Guiné-Bissau,"12,-15",XOF,"GIN,SEN",Bissau,36125.0,12.0,-15.0,558399.0,Africa
+94,Guyana,Guyana,"5,-59",GYD,"BRA,SUR,VEN",Georgetown,214969.0,5.0,-59.0,109934.0,South America
+95,Haiti,Haïti,"19,-72.41666666","HTG,USD",DOM,Port-au-Prince,27750.0,19.0,-72.41666666,2636763.0,North America
+96,Heard Island and McDonald Islands,Heard Island and McDonald Islands,"-53.1,72.51666666",AUD,,,412.0,-53.1,72.51666666,,
+97,Vatican City,Vaticano,"41.9,12.45",EUR,ITA,Vatican City,0.44,41.9,12.45,,Europe
+98,Honduras,Honduras,"15,-86.5",HNL,"GTM,SLV,NIC",Tegucigalpa,112492.0,15.0,-86.5,1363041.0,North America
+99,Hong Kong,香港,"22.267,114.188",HKD,CHN,City of Victoria,1104.0,22.267,114.188,,Asia
+100,Hungary,Magyarország,"47,20",HUF,"AUT,HRV,ROU,SRB,SVK,SVN,UKR",Budapest,93028.0,47.0,20.0,1759497.0,Europe
+101,Iceland,Ísland,"65,-18",ISK,,Reykjavik,103000.0,65.0,-18.0,216364.0,Europe
+102,India,भारत,"20,77",INR,"AFG,BGD,BTN,MMR,CHN,NPL,PAK,LKA",New Delhi,3287590.0,20.0,77.0,28513682.0,Asia
+103,Indonesia,Indonesia,"-5,120",IDR,"TLS,MYS,PNG",Jakarta,1904569.0,-5.0,120.0,10516927.0,Asia
+104,Ivory Coast,Côte d'Ivoire,"8,-5",XOF,"BFA,GHA,GIN,LBR,MLI",Yamoussoukro,322463.0,8.0,-5.0,,Africa
+105,Iran,Irān,"32,53",IRR,"AFG,ARM,AZE,IRQ,PAK,TUR,TKM",Tehran,1648195.0,32.0,53.0,,Asia
+106,Iraq,العراق,"33,44",IQD,"IRN,JOR,KWT,SAU,SYR,TUR",Baghdad,438317.0,33.0,44.0,6811955.0,Asia
+107,Ireland,Éire,"53,-8",EUR,GBR,Dublin,70273.0,53.0,-8.0,1201426.0,Europe
+108,Isle of Man,Isle of Man,"54.25,-4.5",GBP,,Douglas,572.0,54.25,-4.5,27171.0,
+109,Israel,ישראל,"31.47,35.13",ILS,"EGY,JOR,LBN,SYR",Jerusalem,20770.0,31.47,35.13,907062.0,Asia
+110,Italy,Italia,"42.83333333,12.83333333",EUR,"AUT,FRA,SMR,SVN,CHE,VAT",Rome,301336.0,42.83333333,12.83333333,4209710.0,Europe
+111,Jamaica,Jamaica,"18.25,-77.5",JMD,,Kingston,10991.0,18.25,-77.5,589083.0,North America
+112,Japan,日本,"36,138",JPY,,Tokyo,377930.0,36.0,138.0,37468302.0,Asia
+113,Jersey,Jersey,"49.25,-2.16666666",GBP,,Saint Helier,116.0,49.25,-2.16666666,,
+114,Jordan,الأردن,"31,36",JOD,"IRQ,ISR,SAU,SYR",Amman,89342.0,31.0,36.0,2064582.0,Asia
+115,Kazakhstan,Қазақстан,"48,68",KZT,"CHN,KGZ,RUS,TKM,UZB",Astana,2724900.0,48.0,68.0,1068113.0,Asia
+116,Kenya,Kenya,"1,38",KES,"ETH,SOM,SSD,TZA,UGA",Nairobi,580367.0,1.0,38.0,4385853.0,Africa
+117,Kiribati,Kiribati,"1.41666666,173",AUD,,South Tarawa,811.0,1.41666666,173.0,64011.0,Oceania
+118,Kuwait,الكويت,"29.5,45.75",KWD,"IRN,SAU",Kuwait City,17818.0,29.5,45.75,2989270.0,Asia
+119,Kyrgyzstan,Кыргызстан,"41,75",KGS,"CHN,KAZ,TJK,UZB",Bishkek,199951.0,41.0,75.0,996319.0,Asia
+120,Laos,ສປປລາວ,"18,105",LAK,"MMR,KHM,CHN,THA,VNM",Vientiane,236800.0,18.0,105.0,,Asia
+121,Latvia,Latvija,"57,25",EUR,"BLR,EST,LTU,RUS",Riga,64559.0,57.0,25.0,637089.0,Europe
+122,Lebanon,لبنان,"33.83333333,35.83333333",LBP,"ISR,SYR",Beirut,10452.0,33.83333333,35.83333333,2385271.0,Asia
+123,Lesotho,Lesotho,"-29.5,28.5","LSL,ZAR",ZAF,Maseru,30355.0,-29.5,28.5,201851.0,Africa
+124,Liberia,Liberia,"6.5,-9.5",LRD,"GIN,CIV,SLE",Monrovia,111369.0,6.5,-9.5,1418300.0,Africa
+125,Libya,‏ليبيا,"25,17",LYD,"DZA,TCD,EGY,NER,SDN,TUN",Tripoli,1759540.0,25.0,17.0,1157746.0,Africa
+126,Liechtenstein,Liechtenstein,"47.26666666,9.53333333",CHF,"AUT,CHE",Vaduz,160.0,47.26666666,9.53333333,5470.0,Europe
+127,Lithuania,Lietuva,"56,24",LTL,"BLR,LVA,POL,RUS",Vilnius,65300.0,56.0,24.0,536055.0,Europe
+128,Luxembourg,Luxembourg,"49.75,6.16666666",EUR,"BEL,FRA,DEU",Luxembourg,2586.0,49.75,6.16666666,119752.0,Europe
+129,Macau,澳門,"22.16666666,113.55",MOP,CHN,,30.0,22.16666666,113.55,,
+130,Macedonia,Македонија,"41.83333333,22",MKD,"ALB,BGR,GRC,KOS,SRB",Skopje,25713.0,41.83333333,22.0,,Europe
+131,Madagascar,Madagasikara,"-20,47",MGA,,Antananarivo,587041.0,-20.0,47.0,3058387.0,Africa
+132,Malawi,Malawi,"-13.5,34",MWK,"MOZ,TZA,ZMB",Lilongwe,118484.0,-13.5,34.0,1029639.0,Africa
+133,Malaysia,Malaysia,"2.5,112.5",MYR,"BRN,IDN,THA",Kuala Lumpur,330803.0,2.5,112.5,7563912.0,Asia
+134,Maldives,Maldives,"3.25,73",MVR,,Malé,300.0,3.25,73.0,176851.0,Asia
+135,Mali,Mali,"17,-4",XOF,"DZA,BFA,GIN,CIV,MRT,NER,SEN",Bamako,1240192.0,17.0,-4.0,2446749.0,Africa
+136,Malta,Malta,"35.83333333,14.58333333",EUR,,Valletta,316.0,35.83333333,14.58333333,212768.0,Europe
+137,Marshall Islands,M̧ajeļ,"9,168",USD,,Majuro,181.0,9.0,168.0,30661.0,Oceania
+138,Martinique,Martinique,"14.666667,-61",EUR,,Fort-de-France,-1.0,14.666667,-61.0,79361.0,
+139,Mauritania,موريتانيا,"20,-12",MRO,"DZA,MLI,SEN,ESH",Nouakchott,1030700.0,20.0,-12.0,1205414.0,Africa
+140,Mauritius,Maurice,"-20.28333333,57.55",MUR,,Port Louis,2040.0,-20.28333333,57.55,149365.0,Africa
+141,Mayotte,Mayotte,"-12.83333333,45.16666666",EUR,,Mamoudzou,-1.0,-12.83333333,45.16666666,6180.0,
+142,Mexico,México,"23,-102",MXN,"BLZ,GTM,USA",Mexico City,1964375.0,23.0,-102.0,21580827.0,North America
+143,Micronesia,Micronesia,"6.91666666,158.25",USD,,Palikir,702.0,6.91666666,158.25,,Oceania
+144,Moldova,Moldova,"47,29",MDL,"ROU,UKR",Chișinău,33846.0,47.0,29.0,,Europe
+145,Monaco,Monaco,"43.73333333,7.4",EUR,FRA,Monaco,2.02,43.73333333,7.4,38897.0,Europe
+146,Mongolia,Монгол улс,"46,105",MNT,"CHN,RUS",Ulan Bator,1564110.0,46.0,105.0,1520381.0,Asia
+147,Montenegro,Црна Гора,"42.5,19.3",EUR,"ALB,BIH,HRV,KOS,SRB",Podgorica,13812.0,42.5,19.3,177177.0,Europe
+148,Montserrat,Montserrat,"16.75,-62.2",XCD,,Plymouth,102.0,16.75,-62.2,472.0,
+149,Morocco,المغرب,"32,-5",MAD,"DZA,ESH,ESP",Rabat,446550.0,32.0,-5.0,1846661.0,Africa
+150,Mozambique,Moçambique,"-18.25,35",MZN,"MWI,ZAF,SWZ,TZA,ZMB,ZWE",Maputo,801590.0,-18.25,35.0,1101771.0,Africa
+151,Myanmar,Myanma,"22,98",MMK,"BGD,CHN,IND,LAO,THA",Naypyidaw,-1.0,22.0,98.0,500218.0,
+152,Namibia,Namibia,"-22,17","NAD,ZAR","AGO,BWA,ZAF,ZMB",Windhoek,825615.0,-22.0,17.0,404280.0,Africa
+153,Nauru,Nauru,"-0.53333333,166.91666666",AUD,,Yaren,21.0,-0.53333333,166.91666666,11312.0,Oceania
+154,Nepal,नपल,"28,84",NPR,"CHN,IND",Kathmandu,147181.0,28.0,84.0,1329732.0,Asia
+155,Netherlands,Nederland,"52.5,5.75",EUR,"BEL,DEU",Amsterdam,41850.0,52.5,5.75,1131690.0,Europe
+156,New Caledonia,Nouvelle-Calédonie,"-21.5,165.5",XPF,,Nouméa,18575.0,-21.5,165.5,197787.0,
+157,New Zealand,New Zealand,"-41,174",NZD,,Wellington,270467.0,-41.0,174.0,411346.0,Oceania
+158,Nicaragua,Nicaragua,"13,-85",NIO,"CRI,HND",Managua,130373.0,13.0,-85.0,1047923.0,North America
+159,Niger,Niger,"16,8",XOF,"DZA,BEN,BFA,TCD,LBY,MLI,NGA",Niamey,1267000.0,16.0,8.0,1213781.0,Africa
+160,Nigeria,Nigeria,"10,8",NGN,"BEN,CMR,TCD,NER",Abuja,923768.0,10.0,8.0,2918518.0,Africa
+161,Niue,Niuē,"-19.03333333,-169.86666666",NZD,,Alofi,260.0,-19.03333333,-169.86666666,727.0,
+162,Norfolk Island,Norfolk Island,"-29.03333333,167.95",AUD,,Kingston,36.0,-29.03333333,167.95,,
+163,North Korea,북한,"40,127",KPW,"CHN,KOR,RUS",Pyongyang,120538.0,40.0,127.0,,Asia
+164,Northern Mariana Islands,Northern Mariana Islands,"15.2,145.75",USD,,Saipan,464.0,15.2,145.75,50568.0,
+165,Norway,Norge,"62,10",NOK,"FIN,SWE,RUS",Oslo,323802.0,62.0,10.0,1012225.0,Europe
+166,Oman,عمان,"21,57",OMR,"SAU,ARE,YEM",Muscat,309500.0,21.0,57.0,1446563.0,Asia
+167,Pakistan,Pakistan,"30,70",PKR,"AFG,CHN,IND,IRN",Islamabad,881912.0,30.0,70.0,1061412.0,Asia
+168,Palau,Palau,"7.5,134.5",USD,,Ngerulmud,459.0,7.5,134.5,11410.0,Oceania
+169,Palestine,فلسطين,"31.9,35.2",ILS,"ISR,EGY,JOR",Ramallah,-1.0,31.9,35.2,,
+170,Panama,Panamá,"9,-80","PAB,USD","COL,CRI",Panama City,75417.0,9.0,-80.0,1783490.0,North America
+171,Papua New Guinea,Papua Niugini,"-6,147",PGK,IDN,Port Moresby,462840.0,-6.0,147.0,366862.0,Oceania
+172,Paraguay,Paraguay,"-23,-58",PYG,"ARG,BOL,BRA",Asunción,406752.0,-23.0,-58.0,3222199.0,South America
+173,Peru,Perú,"-10,-76",PEN,"BOL,BRA,CHL,COL,ECU",Lima,1285216.0,-10.0,-76.0,10390607.0,South America
+174,Philippines,Pilipinas,"13,122",PHP,,Manila,342353.0,13.0,122.0,13482468.0,Asia
+175,Pitcairn Islands,Pitcairn Islands,"-25.06666666,-130.1",NZD,,Adamstown,47.0,-25.06666666,-130.1,,
+176,Poland,Polska,"52,20",PLN,"BLR,CZE,DEU,LTU,RUS,SVK,UKR",Warsaw,312679.0,52.0,20.0,1767798.0,Europe
+177,Portugal,Portugal,"39.5,-8",EUR,ESP,Lisbon,92090.0,39.5,-8.0,2927316.0,Europe
+178,Puerto Rico,Puerto Rico,"18.25,-66.5",USD,,San Juan,8870.0,18.25,-66.5,2454337.0,
+179,Qatar,قطر,"25.5,51.25",QAR,SAU,Doha,11586.0,25.5,51.25,633401.0,Asia
+180,Republic of Kosovo,Republika e Kosovës,"42.666667,21.166667",EUR,"ALB,MKD,MNE,SRB",Pristina,-1.0,42.666667,21.166667,,
+181,Réunion,La Réunion,"-21.15,55.5",EUR,,Saint-Denis,-1.0,-21.15,55.5,147209.0,
+182,Romania,România,"46,25",RON,"BGR,HUN,MDA,SRB,UKR",Bucharest,238391.0,46.0,25.0,1821380.0,Europe
+183,Russia,Россия,"60,100",RUB,"AZE,BLR,CHN,EST,FIN,GEO,KAZ,PRK,LVA,LTU,MNG,NOR,POL,UKR",Moscow,17098242.0,60.0,100.0,,Asia
+184,Rwanda,Rwanda,"-2,30",RWF,"BDI,COD,TZA,UGA",Kigali,26338.0,-2.0,30.0,1057836.0,Africa
+185,Saint Barthélemy,Saint-Barthélemy,"18.5,-63.41666666",EUR,,Gustavia,21.0,18.5,-63.41666666,,
+186,"Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha","-15.95,-5.7",SHP,,Jamestown,397.0,-15.95,-5.7,,
+187,Saint Kitts and Nevis,Saint Kitts and Nevis,"17.33333333,-62.75",XCD,,Basseterre,261.0,17.33333333,-62.75,14434.0,North America
+188,Saint Lucia,Saint Lucia,"13.88333333,-60.96666666",XCD,,Castries,616.0,13.88333333,-60.96666666,22258.0,North America
+189,Saint Martin,Saint-Martin,"18.08333333,-63.95",EUR,SXM,Marigot,53.0,18.08333333,-63.95,,
+190,Saint Pierre and Miquelon,Saint-Pierre-et-Miquelon,"46.83333333,-56.33333333",EUR,,Saint-Pierre,242.0,46.83333333,-56.33333333,5723.0,
+191,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"13.25,-61.2",XCD,,Kingstown,389.0,13.25,-61.2,26636.0,North America
+192,Samoa,Samoa,"-13.58333333,-172.33333333",WST,,Apia,2842.0,-13.58333333,-172.33333333,36066.0,Oceania
+193,San Marino,San Marino,"43.76666666,12.41666666",EUR,ITA,City of San Marino,61.0,43.76666666,12.41666666,4465.0,Europe
+194,São Tomé and Príncipe,São Tomé e Príncipe,"1,7",STD,,São Tomé,964.0,1.0,7.0,,
+195,Saudi Arabia,العربية السعودية,"25,45",SAR,"IRQ,JOR,KWT,OMN,QAT,ARE,YEM",Riyadh,2149690.0,25.0,45.0,6906595.0,Asia
+196,Senegal,Sénégal,"14,-14",XOF,"GMB,GIN,GNB,MLI,MRT",Dakar,196722.0,14.0,-14.0,2978419.0,Africa
+197,Serbia,Србија,"44,21",RSD,"BIH,BGR,HRV,HUN,KOS,MKD,MNE,ROU",Belgrade,88361.0,44.0,21.0,1389351.0,Europe
+198,Seychelles,Seychelles,"-4.58333333,55.66666666",SCR,,Victoria,452.0,-4.58333333,55.66666666,28091.0,Africa
+199,Sierra Leone,Sierra Leone,"8.5,-11.5",SLL,"GIN,LBR",Freetown,71740.0,8.5,-11.5,1135949.0,Africa
+200,Singapore,Singapore,"1.36666666,103.8",SGD,,Singapore,710.0,1.36666666,103.8,5791901.0,Asia
+201,Sint Maarten,Sint Maarten,"18.033333,-63.05",ANG,MAF,Philipsburg,34.0,18.033333,-63.05,,
+202,Slovakia,Slovensko,"48.66666666,19.5",EUR,"AUT,CZE,HUN,POL,UKR",Bratislava,49037.0,48.66666666,19.5,429920.0,Europe
+203,Slovenia,Slovenija,"46.11666666,14.81666666",EUR,"AUT,HRV,ITA,HUN",Ljubljana,20273.0,46.11666666,14.81666666,286491.0,Europe
+204,Solomon Islands,Solomon Islands,"-8,159",SDB,,Honiara,28896.0,-8.0,159.0,81801.0,Oceania
+205,Somalia,Soomaaliya,"10,49",SOS,"DJI,ETH,KEN",Mogadishu,637657.0,10.0,49.0,2081624.0,Africa
+206,South Africa,South Africa,"-29,24",ZAR,"BWA,LSO,MOZ,NAM,SWZ,ZWE",Pretoria,1221037.0,-29.0,24.0,4430367.0,Africa
+207,South Georgia,South Georgia,"-54.5,-37",GBP,,King Edward Point,-1.0,-54.5,-37.0,,
+208,South Korea,대한민국,"37,127.5",KRW,PRK,Seoul,100210.0,37.0,127.5,,Asia
+209,South Sudan,South Sudan,"7,30",SSP,"CAF,COD,ETH,KEN,SDN,UGA",Juba,619745.0,7.0,30.0,368914.0,Africa
+210,Spain,España,"40,-4",EUR,"AND,FRA,GIB,PRT,MAR",Madrid,505992.0,40.0,-4.0,6497124.0,Europe
+211,Sri Lanka,śrī laṃkāva,"7,81",LKR,IND,Colombo,65610.0,7.0,81.0,599821.0,Asia
+212,Sudan,السودان,"15,30",SDG,"CAF,TCD,EGY,ERI,ETH,LBY,SSD",Khartoum,1886068.0,15.0,30.0,5534079.0,Africa
+213,Suriname,Suriname,"4,-56",SRD,"BRA,GUF,GUY",Paramaribo,163820.0,4.0,-56.0,239457.0,South America
+214,Svalbard and Jan Mayen,Svalbard og Jan Mayen,"78,20",NOK,,Longyearbyen,-1.0,78.0,20.0,,
+215,Swaziland,Swaziland,"-26.5,31.5",SZL,"MOZ,ZAF",Lobamba,17364.0,-26.5,31.5,68010.0,Africa
+216,Sweden,Sverige,"62,15",SEK,"FIN,NOR",Stockholm,450295.0,62.0,15.0,1582968.0,Europe
+217,Switzerland,Schweiz,"47,8","CHE,CHF,CHW","AUT,FRA,ITA,LIE,DEU",Bern,41284.0,47.0,8.0,422153.0,Europe
+218,Syria,سوريا,"35,38",SYP,"IRQ,ISR,JOR,LBN,TUR",Damascus,185180.0,35.0,38.0,,Asia
+219,Taiwan,臺灣,"23.5,121",TWD,,Taipei,36193.0,23.5,121.0,,Asia
+220,Tajikistan,Тоҷикистон,"39,71",TJS,"AFG,CHN,KGZ,UZB",Dushanbe,143100.0,39.0,71.0,872653.0,Asia
+221,Tanzania,Tanzania,"-6,35",TZS,"BDI,COD,KEN,MWI,MOZ,RWA,UGA,ZMB",Dodoma,945087.0,-6.0,35.0,,Africa
+222,Thailand,ประเทศไทย,"15,100",THB,"MMR,KHM,LAO,MYS",Bangkok,513120.0,15.0,100.0,10156316.0,Asia
+223,Timor-Leste,Timor-Leste,"-8.83333333,125.91666666",USD,IDN,Dili,14874.0,-8.83333333,125.91666666,281135.0,
+224,Togo,Togo,"8,1.16666666",XOF,"BEN,BFA,GHA",Lomé,56785.0,8.0,1.16666666,1745744.0,Africa
+225,Tokelau,Tokelau,"-9,-172",NZD,,Fakaofo,12.0,-9.0,-172.0,0.0,
+226,Tonga,Tonga,"-20,-175",TOP,,Nuku'alofa,747.0,-20.0,-175.0,22904.0,Oceania
+227,Trinidad and Tobago,Trinidad and Tobago,"11,-61",TTD,,Port of Spain,5130.0,11.0,-61.0,544417.0,North America
+228,Tunisia,تونس,"34,9",TND,"DZA,LBY",Tunis,163610.0,34.0,9.0,2290777.0,Africa
+229,Turkey,Türkiye,"39,35",TRY,"ARM,AZE,BGR,GEO,GRC,IRN,IRQ,SYR",Ankara,783562.0,39.0,35.0,4919074.0,Europe
+230,Turkmenistan,Türkmenistan,"40,60",TMT,"AFG,IRN,KAZ,UZB",Ashgabat,488100.0,40.0,60.0,810186.0,Asia
+231,Turks and Caicos Islands,Turks and Caicos Islands,"21.75,-71.58333333",USD,,Cockburn Town,948.0,21.75,-71.58333333,5447.0,
+232,Tuvalu,Tuvalu,"-8,178",AUD,,Funafuti,26.0,-8.0,178.0,7042.0,Oceania
+233,Uganda,Uganda,"1,32",UGX,"COD,KEN,RWA,SSD,TZA",Kampala,241550.0,1.0,32.0,2986352.0,Africa
+234,Ukraine,Україна,"49,32",UAH,"BLR,HUN,MDA,POL,ROU,RUS,SVK",Kiev,603500.0,49.0,32.0,2956706.0,Europe
+235,United Arab Emirates,دولة الإمارات العربية المتحدة,"24,54",AED,"OMN,SAU",Abu Dhabi,83600.0,24.0,54.0,1419699.0,Asia
+236,United Kingdom,United Kingdom,"54,-2",GBP,IRL,London,242900.0,54.0,-2.0,9046485.0,Europe
+237,United States,United States,"38,-97","USD,USN,USS","CAN,MEX",Washington D.C.,9372610.0,38.0,-97.0,5206593.0,North America
+238,United States Minor Outlying Islands,United States Minor Outlying Islands,,USD,,,-1.0,0.0,0.0,,
+239,United States Virgin Islands,United States Virgin Islands,"18.35,-64.933333",USD,,Charlotte Amalie,347.0,18.35,-64.933333,52322.0,
+240,Uruguay,Uruguay,"-33,-56","UYI,UYU","ARG,BRA",Montevideo,181034.0,-33.0,-56.0,1736989.0,South America
+241,Uzbekistan,O‘zbekiston,"41,64",UZS,"AFG,KAZ,KGZ,TJK,TKM",Tashkent,447400.0,41.0,64.0,2463969.0,Asia
+242,Vanuatu,Vanuatu,"-16,167",VUV,,Port Vila,12189.0,-16.0,167.0,52690.0,Oceania
+243,Venezuela,Venezuela,"8,-66",VEF,"BRA,COL,GUY",Caracas,916445.0,8.0,-66.0,,South America
+244,Vietnam,Việt Nam,"16.16666666,107.83333333",VND,"KHM,CHN,LAO",Hanoi,331212.0,16.16666666,107.83333333,,Asia
+245,Wallis and Futuna,Wallis et Futuna,"-13.3,-176.2",XPF,,Mata-Utu,142.0,-13.3,-176.2,,
+246,Western Sahara,الصحراء الغربية,"24.5,-13","MAD,DZD,MRO","DZA,MRT,MAR",El Aaiún,266000.0,24.5,-13.0,232388.0,
+247,Yemen,اليَمَن,"15,48",YER,"OMN,SAU",Sana'a,527968.0,15.0,48.0,2779317.0,Asia
+248,Zambia,Zambia,"-15,30",ZMK,"AGO,BWA,COD,MWI,MOZ,NAM,TZA,ZWE",Lusaka,752612.0,-15.0,30.0,2523844.0,Africa
+249,Zimbabwe,Zimbabwe,"-20,30",ZWL,"BWA,MOZ,ZAF,ZMB",Harare,390757.0,-20.0,30.0,1515016.0,Africa
