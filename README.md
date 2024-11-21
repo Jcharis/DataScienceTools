@@ -66,6 +66,8 @@ Aim: A Collection of Useful Data Science and Machine Learning Tools,Libraries an
 - probscale: easily make probability scaled axis: https://github.com/matplotlib/mpl-probscale
 - adjustText: easily add non-overlapping annotated text (https://github.com/Phlya/adjustText/blob/master/docs/source/Examples.ipynb)
 - make MATPLOTLIB animations with animatplot: https://animatplot.readthedocs.io/en/stable/
+- [D-Tale](https://github.com/man-group/dtale): Visualizer for pandas data strucutres
+   - [Covid-19 chart example](./dtale_COVID-19.ipynb)
 
 ### Machine Learning/Deep Learning/Model Building
 - Scikitlearn
